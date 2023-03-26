@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "8abaeeb01872afaf",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbe304f69ab48722",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c479599bce72773",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "aff3721e3f171515",
+    "type": "split",
+    "children": [
+      {
+        "id": "5862481dc5d7b0ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "866974c1b56cfd1b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a63059b89bfc4bac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "36d7879d408e71dc",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1195f52e98a3f058",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbde1d95c15de801",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c05ef9c634669c01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7c44be499253336a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a038cb85bea8b0a5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6e3bc2bf279298b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "1c479599bce72773",
+  "lastOpenFiles": [
+    "Medium/50. Pow(x, n).md",
+    "Medium/153. Find Minimum in Rotated Sorted Array.md",
+    "Medium/128. Longest Consecutive Sequence.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Medium/974. Subarray Sums Divisible by K.md",
+    "Medium/371. Sum of Two Integers.md",
+    "Medium/560. Subarray Sum Equals K.md",
+    "Medium/167. Two Sum II - Input Array is Sorted.md",
+    "Medium/443. String Compression.md",
+    "Medium/75. Sort Colors.md",
+    "Medium/451. Sort Characters By Frequency.md",
+    "Medium/137. Single Number II.md",
+    "Medium/540. Single Element in a Sorted Array.md",
+    "Medium/240. Search a 2D Matrix II.md",
+    "Medium/74. Search a 2D Matrix.md",
+    "Medium/2149. Rearrange Array Elements by Sign.md",
+    "Medium/7. Reverse Integer.md",
+    "Medium/189. Rotate Array.md",
+    "Medium/48. Rotate Image.md",
+    "Medium/53. Maximum Subarray.md",
+    "Medium/852. Peak Index in a Mountain Array.md",
+    "Medium/238. Product of Array Except Self.md",
+    "Medium/152. Maximum Product Subarray.md",
+    "Medium/2348. Number of Zero Filled Subarrays.md",
+    "Medium/179. Largest Number.md",
+    "Easy/28. Find the Index of the First Occurrence in a String.md",
+    "Medium/287. Find the Duplicate Number.md",
+    "LeetCode",
+    "Medium",
+    "Easy"
+  ]
+}
